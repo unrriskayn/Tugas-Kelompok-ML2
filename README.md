@@ -1,4 +1,6 @@
-Latar Belakang
+Latar Belakang:
+
+
  Penggunaan kartu kredit yang semakin luas membawa dampak positif
  dalam kemudahan bertransaksi, namun juga meningkatkan risiko
  terjadinya penipuan. Tantangan utama dalam mendeteksi penipuan
